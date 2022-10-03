@@ -1,0 +1,23 @@
+|$!/bin/bash
+      #jenkins file
+           #agent = any
+	   node{
+	        stage(`1 git clone`) {
+		}
+		stage(`2 maven build`) {
+		
+		}
+		sage(`3 code Quality analysis`) {
+		
+		}
+		stage(`4 uploading artifacts`) {
+		
+		}
+		stage(`5 Deployment) {
+		
+		}
+		stage(`6 Email alerts`) {
+		
+		}
+		
+
