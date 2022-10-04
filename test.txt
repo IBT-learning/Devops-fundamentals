@@ -1,0 +1,8 @@
+^X
+clear
+cd Desktop/
+test.txt
+^X
+Exit
+clear
+test my txt

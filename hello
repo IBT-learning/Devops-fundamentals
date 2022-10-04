@@ -1,0 +1,8 @@
+echo "How many times should I echo Hello?"
+
+read num
+
+for ((i=1; i <= $num; i++));
+do	
+	echo $i
+done
