@@ -1,1 +1,1 @@
-# jenkins-example-scripted-vs-declarative
+# jenkins-example-scripted-vs-declarative/bokovi
